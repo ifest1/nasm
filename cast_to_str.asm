@@ -32,6 +32,3 @@ cast_to_str:
     mov esp, ebp
     pop ebp
     ret
-
-
-; To do: how to recover the IP of the caller function
